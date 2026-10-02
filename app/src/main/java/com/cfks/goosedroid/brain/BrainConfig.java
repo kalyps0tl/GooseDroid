@@ -30,7 +30,7 @@ public final class BrainConfig {
     private static final String KEY_PREFIX_MODEL = "model_";
     private static final String KEY_PREFIX_API_KEY = "api_key_";
 
-    public static final String DEFAULT_LANGUAGE = "español";
+  public static final String DEFAULT_LANGUAGE = "English";
     public static final int DEFAULT_INTERVAL_SECONDS = 60;
     public static final int MIN_INTERVAL_SECONDS = 15;
     public static final int MAX_INTERVAL_SECONDS = 3600;
